@@ -1,0 +1,6 @@
+@import "tailwindcss";.font-merriweather {
+    font-family: "Merriweather", serif !important;
+  }
+  .font-opensans {
+    font-family: "Open Sans", sans-serif !important;
+  }
