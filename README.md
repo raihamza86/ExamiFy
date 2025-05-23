@@ -46,7 +46,7 @@ ExamiFy/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/EduMaster.git
+git clone https:https://github.com/raihamza86/ExamiFy.git
 cd ExamiFy
 
 2. Install Dependencies
@@ -77,9 +77,6 @@ node app.js
 Frontend
 cd ../frontend
 npm run dev
-
-📸 Screenshots
-![screencapture-localhost-5173-2025-05-23-09_57_36](https://github.com/user-attachments/assets/bc799538-6a6d-4fca-ab73-941b863875e9)
 
 
 📬 Contact
